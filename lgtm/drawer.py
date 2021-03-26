@@ -10,7 +10,6 @@ FONT_MIN_SIZE = 24
 
 # WindowsやLinuxではパスが異なる
 FONT_NAME = os.path.dirname(__file__) + '/data/ArialBold.ttf'
-print(FONT_NAME)
 FONT_COLOR_WHITE = (255, 255, 255, 0)
 
 # アウトプット関連の定数
