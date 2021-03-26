@@ -8,7 +8,7 @@ FONT_MAX_SIZE = 256
 FONT_MIN_SIZE = 24
 
 # WindowsやLinuxではパスが異なる
-FONT_NAME = '/Library/Fonts/Arial Bold.ttf'
+FONT_NAME = '/work/Arial Bold.ttf'
 FONT_COLOR_WHITE = (255, 255, 255, 0)
 
 # アウトプット関連の定数
