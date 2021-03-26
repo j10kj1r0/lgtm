@@ -11,6 +11,6 @@ def cli(keyword, message):
 
 
 
-def lgtm():
+def lgtm(keyword, message):
     # ここにロジックを追加していく
     pass
